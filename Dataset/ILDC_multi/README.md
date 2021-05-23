@@ -1,5 +1,5 @@
 ## Link of the Dataset ##
-The **ILDC_multi** dataset (34816) including train (32305), development (994) and test (1517) can be found [here](https://drive.google.com/file/d/1BpRgYqacpYBODnfluzL2mJsm5kBjOe05/view?usp=sharing).
+The **ILDC_multi** dataset (34816) including train (32305), development (994) and test (1517) can be found [here].
 
 ### Description of the Dataset ###
 
