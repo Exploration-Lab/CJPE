@@ -1,0 +1,16 @@
+ROUGE-1 : [nan, nan, nan, nan, 0.1424875923597296]
+
+ROUGE-2 : [nan, nan, nan, nan, 0.07191432834240229]
+
+ROUGE-L : [nan, nan, nan, nan, 0.16497224231413846]
+
+Jaccard : [nan, nan, nan, nan, 0.11669347808375624]
+
+Overmin : [nan, nan, nan, nan, 0.6157205727885002]
+
+Overmax : [nan, nan, nan, nan, 0.13084636425302795]
+
+BLEU    : [nan, nan, nan, nan, 0.06431990111934095]
+
+METEOR  : [nan, nan, nan, nan, 0.19972536370894084]
+
