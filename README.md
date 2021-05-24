@@ -1,7 +1,7 @@
 # CJPE (Court Judgment Prediction and Explanation)
 Court Judgment Prediction and Explanation
 
-The repository contains the full codebase of experiments and results in the paper "Court Judgment Prediction and Explanation (CJPE) on Indian Supreme Court Cases". If you are looking for ILDC dataset then it is at a different repository [(here)](link to the repo)
+The repository contains the full codebase of experiments and results in the paper "Court Judgment Prediction and Explanation (CJPE) on Indian Supreme Court Cases". You can get ILDC dataset on Dataset folder.
 
 Our contributions can be summarized as below:
 * We introduce a new task – Court Judgment Prediction and Explanation (CJPE) with the following sub-tasks: Court Judgment Prediction and Explanation of the Prediction.
