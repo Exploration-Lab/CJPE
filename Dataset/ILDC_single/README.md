@@ -1,5 +1,5 @@
 ## Link of the Dataset ##
-The **ILDC_single** dataset (7593) including train (5082), development (994) and test (1517) can be found [here](https://iitk-my.sharepoint.com/:u:/g/personal/ashutoshm_iitk_ac_in/EUccBE03gLdPvGjtGQeXx5cBtFRBN2996uxUwK_iiburGg?e=YMAI4v).
+The **ILDC_single** dataset (7593) including train (5082), development (994) and test (1517) can be found [here](https://tinyurl.com/3nxaa7tr).
 
 ### Description of the Dataset ###
 
