@@ -1,6 +1,6 @@
 # Case Decision Prediction
 
-ILDC documents are long and have specializedvocabulary compared to typical corpora used fortraining text classification models and languagemodels. For predictiong the case decisions we experimented with various types of models:
+ILDC documents are long and have specialized vocabulary compared to typical corpora used for training text classification models and language models. For predictiong the case decisions we experimented with various types of models:
 - **Classical Models**
 -  **Sequential Models**
 - **CNN**
