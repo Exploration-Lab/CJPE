@@ -1,7 +1,7 @@
 # CJPE (Court Judgment Prediction and Explanation)
 Court Judgment Prediction and Explanation
 
-The repository contains the full codebase of experiments and results of the ACL 2021 paper "Court Judgment Prediction and Explanation (CJPE) on Indian Supreme Court Cases". 
+The repository contains the full codebase of experiments and results of the ACL-IJCNLP 2021 paper "ILDC for CJPE: Indian Legal Documents Corpus for Court Judgment Prediction and Explanation". 
 
 You can get ILDC dataset in the Dataset folder.
 
