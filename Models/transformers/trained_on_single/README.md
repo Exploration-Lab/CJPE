@@ -30,4 +30,4 @@ Model      | link |
 -----------|-------|
 BERT       | [here](https://drive.google.com/drive/folders/1g4di6WHAnKPoUl8gQ8YcQUOILBmmy1q7?usp=sharing)|
 RoBERTa    | [here](https://drive.google.com/drive/folders/1NF5AGgztp29comv4HMABcRwowP4Kf0v5?usp=sharing)  |
-XLNet      | [here](https://drive.google.com/drive/folders/1zsSru5d4t8QzMOG_Sa7HdrkzN9pB7KJi?usp=sharing)  |
+XLNet      | [here](https://drive.google.com/drive/folders/1aYH_dbe7YIiqZ6ULR_OVvXBlbKa_PyA5?usp=sharing)  |
