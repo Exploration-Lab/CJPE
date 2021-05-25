@@ -27,7 +27,7 @@ Model      | link |
 -----------|-------|
 BERT       | [here](https://drive.google.com/drive/folders/1bYrsn8JEu_C2ExWBQnqUPmApCn-is8IL?usp=sharing)|
 RoBERTa    | [here](https://drive.google.com/drive/folders/1b_9j1XoXpdvGEOnwahvIcSDz5SzVLvJ9?usp=sharing)  |
-XLNet      | [here](https://drive.google.com/drive/folders/1_PE4tBbuvPUihYrf4kvUZ7Fg0IqWK72b?usp=sharing)  |
+XLNet      | [here](https://drive.google.com/drive/folders/1TXQctks4_8mPuBUrHC7mvDxhjs4Lxab2?usp=sharing)  |
 
 
 
