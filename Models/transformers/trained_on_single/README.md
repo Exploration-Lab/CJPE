@@ -14,7 +14,7 @@ Model      |  link |
 -----------|-------|
 BERT       | [here](https://drive.google.com/drive/folders/1TD2FQix8_gIOXiV2rTgbCU7lfrplH1HM?usp=sharing)|
 RoBERTa    | [here](https://drive.google.com/drive/folders/1-u66E41nlGowY4RFAVCBR9iMkDL8zB80?usp=sharing)  |
-XLNet      | [here](https://drive.google.com/drive/folders/1Fo3J_9vBXORIMJ0HhzjffNMi5ghbf4RI?usp=sharing)  |
+XLNet      | [here](https://drive.google.com/drive/folders/1d8p1StTObDzQoc_X2hEs7nGITfxa6L9I?usp=sharing)  |
 
 **Note**: If you want to know more about the training hyperparameters we used, please look at section A of appendix in the paper.
 
