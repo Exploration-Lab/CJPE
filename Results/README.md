@@ -1,3 +1,5 @@
+The main results are there in the paper due to space constraints we are not able to show additional results and experiments. These results are extension to the results in the paper.
+
 ## Token visualization heatmap using Integrated Gradient for BERT model (document name 1951_33.txt)
 
 <img src = "BERT visualization.jpg" width = 80%>
