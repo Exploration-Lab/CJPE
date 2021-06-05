@@ -12,7 +12,7 @@ Our contributions can be summarized as below:
 
 ## License
 
-[!License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)]
+[![License: CC BY-ND 4.0](https://licensebuttons.net/l/by-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nd/4.0/)
 
 CJPE software follows GPL 3.0v license. Therefore, the software is open source and free to use for everyone.
 
