@@ -10,6 +10,14 @@ Our contributions can be summarized as below:
 * We create a new corpus (Indian Legal Documents Corpus (ILDC) annotated with court decisions and corresponding explanations.
 * We develop a battery of methods to solve the task. We perform an extensive experimentation with state of the art machine learning algorithms for the judgement prediction task. We develop a new method for explaining machine predictions since none of the existing methods could be readily applied in our setting. We evaluate our explainability results with annotations by legal experts, showing significant differences between point of view of algorithms and experts. We also perform a detailed case study to understand the annotations by lawyers (for more details please check the paper)
 
+## License
+
+[!License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+CJPE software follows GPL 3.0v license. Therefore, the software is open source and free to use for everyone.
+
+However, the ILDC dataset follows CC-BY-NC-4.0. Thus, those compounds are freely available for academic purpose or individual research, but restricted for commecial use.
+
 ## Citation
 
 ```
