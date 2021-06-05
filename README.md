@@ -14,7 +14,7 @@ Our contributions can be summarized as below:
 
 [![License: CC BY-ND 4.0](https://licensebuttons.net/l/by-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nd/4.0/)
 
-CJPE software follows GPL 3.0v license. Therefore, the software is open source and free to use for everyone.
+CJPE software follows [GPL 3.0v](LICENSE) license. Therefore, the software is open source and free to use for everyone.
 
 However, the ILDC dataset follows [CC-BY-NC-4.0](CC-BY-NC-SA-4.0). Thus, those compounds are freely available for academic purpose or individual research, but restricted for commecial use.
 
