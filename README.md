@@ -42,4 +42,4 @@ However, the ILDC dataset follows [CC-BY-NC-4.0](CC-BY-NC-SA-4.0). Thus, those c
 
 ## Contact
 
-In case of any queries, please contact <vijitvm@iitk.ac.in>
+In case of any queries, please contact <vijitvm21@gmail.com>
