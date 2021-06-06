@@ -1,5 +1,5 @@
 ## Link of the Dataset ##
-The **ILDC_single** dataset (7593) including train (5082), development (994) and test (1517) can be found [here](https://tinyurl.com/3nxaa7tr).
+The **ILDC_single** dataset (7593) including train (5082), development (994) and test (1517). Please fill the form in the README of the `Data` directory to get the link.
 
 ### Description of the Dataset ###
 
