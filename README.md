@@ -12,12 +12,10 @@ Our contributions can be summarized as below:
 
 ## License
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-CJPE software follows [GPL 3.0v](LICENSE) license. Therefore, the software is open source and free to use for everyone.
 
-However, the ILDC dataset follows [CC-BY-NC-4.0](CC-BY-NC-SA-4.0). Thus, those compounds are freely available for academic purpose or individual research, but restricted for commecial use.
+However, the ILDC dataset and CJPE software follows [CC-BY-NC](CC-BY-NC-SA-4.0) license. Thus, users can share and adapt our dataset if they give credit to us and do not use our dataset for any commercial purposes.
 
 ## Citation
 
