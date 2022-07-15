@@ -1,5 +1,5 @@
 # CJPE (Court Judgment Prediction and Explanation)
-Court Judgment Prediction and Explanation
+Court Judgment Prediction and Explanation (Paper: <https://aclanthology.org/2021.acl-long.313/>)
 
 The repository contains the full codebase of experiments and results of the ACL-IJCNLP 2021 paper "ILDC for CJPE: Indian Legal Documents Corpus for Court Judgment Prediction and Explanation". 
 
