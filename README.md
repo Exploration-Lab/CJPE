@@ -43,4 +43,4 @@ The ILDC dataset and CJPE software follows [CC-BY-NC](CC-BY-NC) license. Thus, u
 
 ## Contact
 
-In case of any queries, please contact <ashutoshm.iitk@gmail.com>, <vijitvm21@gmail.com>
+In case of any queries, please contact <ashutoshm.iitk@gmail.com>
