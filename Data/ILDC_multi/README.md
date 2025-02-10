@@ -1,5 +1,5 @@
 ## Link of the Dataset ##
-The **ILDC_multi** dataset (34816) including train (32305), development (994) and test (1517). To get the link please fill the form provided in the README of Data directory.
+The **ILDC_multi** dataset (34816) including train (32305), development (994) and test (1517). 
 
 ### Description of the Dataset ###
 
